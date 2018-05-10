@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+LIBRARY "min_hook_dll"
+EXPORTS
+=======
+LIBRARY "min_hook_dll"
+EXPORTS
+
+>>>>>>> origin/master
